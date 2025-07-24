@@ -35,7 +35,8 @@ To develop a wireless notice board system using Bluetooth and Arduino to display
 ## 📁 Files Included
 - `noticeboard.ino` – Complete Arduino source code for message scrolling
 - `README.md` – This documentation file
-
+- pin diagram
+- output picture
 
 🔧 Mini Project (2024-25)  
 🎓 Department of Electronics and Communication Engineering (ECE) – HKBK College of Engineering
